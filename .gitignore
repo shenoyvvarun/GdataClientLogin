@@ -1,0 +1,9 @@
+.buildpath
+.project
+.settings/*
+application/config/*
+application/cache/*
+application/logs/*
+crossdomain.xml
+config.xml
+public/*
